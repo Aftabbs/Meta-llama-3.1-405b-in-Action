@@ -8,5 +8,5 @@ Meta also mentions that they used a standard decoder-only transformer model arch
 
 ![image](https://github.com/user-attachments/assets/08d5e9aa-f557-4979-b9da-eda981b88fd5)
 
-![image](https://github.com/user-attachments/assets/7cdd7a9a-b0c2-450f-8b08-f43c870b4ebb)
+![image](https://github.com/user-attachments/assets/7cdd7a9a-b0c2-450f-8b08-f43c870b4ebb)   
 
