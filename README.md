@@ -6,7 +6,7 @@ Meta Llama 3.1: Latest Open-Source AI Model Takes on GPT-4o mini Based on their 
 Meta also mentions that they used a standard decoder-only transformer model architecture (basically an auto-regressive transformer) with minor adaptations rather than a mixture-of-experts model to maximize training stability.
              
 
-![image](https://github.com/user-attachments/assets/08d5e9aa-f557-4979-b9da-eda981b88fd5)
+![image](https://github.com/user-attachments/assets/08d5e9aa-f557-4979-b9da-eda981b88fd5)  
 
 ![image](https://github.com/user-attachments/assets/7cdd7a9a-b0c2-450f-8b08-f43c870b4ebb)   
 
