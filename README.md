@@ -10,3 +10,4 @@ Meta also mentions that they used a standard decoder-only transformer model arch
 
 ![image](https://github.com/user-attachments/assets/7cdd7a9a-b0c2-450f-8b08-f43c870b4ebb)   
 
+    
